@@ -1,6 +1,6 @@
 # CPE 刷題記錄 🚀
 
-這個repository用於記錄我的 CPE（Competitive Programming Environment）刷題心得。
+這個repository用於記錄我的 CPE（Collegiate Programming Examination）刷題心得。
 
 ## 刷題記錄 📝
 
