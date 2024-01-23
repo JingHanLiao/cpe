@@ -6,7 +6,7 @@
 
 | 題號 | 題目網址 | 星等 | 語言 | 程式碼 |
 |------|----------|--------|------|--------|
-| 100  | [The 3n + 1 problem](https://onlinejudge.org/external/1/100.pdf) | ⭐ | C++ | [100.cpp](https://github.com/YourRepository/100/100.cpp) |
+| 100  | [The 3n + 1 problem](https://reurl.cc/yYLYNE) | ⭐ | C++ | [100.cpp](https://github.com/JingHanLiao/cpe/blob/master/100/100.cpp) |
 
 ## 使用語言 💻
 
