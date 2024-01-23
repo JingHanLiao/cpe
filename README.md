@@ -1,13 +1,12 @@
 # CPE 刷題記錄 🚀
 
-這個repository用於記錄我的 CPE（Collegiate Programming Examination）刷題心得。
+這個存儲庫用於記錄我的 CPE（Competitive Programming Environment）刷題心得。
 
 ## 刷題記錄 📝
 
-| 題號 | 星等 | 語言 | 程式碼 | 心得 |
-|------|--------|------|--------|------|
-| 1001 | ⭐⭐⭐ | C++ | [solution.cpp](1001/solution.cpp) | 簡要心得 |
-| 2003 | ⭐ | C++ | [solution.cpp](2003/solution.cpp) | 簡要心得 |
+| 題號 | 題目網址 | 星等 | 語言 | 程式碼 |
+|------|----------|--------|------|--------|
+| 100  | [The 3n + 1 problem](https://onlinejudge.org/external/1/100.pdf) | ⭐ | C++ | [100.cpp](https://github.com/YourRepository/100/100.cpp) |
 
 ## 使用語言 💻
 
@@ -15,6 +14,6 @@
 
 ## 如何貢獻 🤝
 
-歡迎分享更好的解決方案或心得，請發 issue 或發送合併請求。
+歡迎分享更好的解決方案，請發 issue 或發送合併請求。
 
 Happy coding! 🎉
